@@ -21,7 +21,7 @@
 
 <h2> About Me</h2>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/650393469436559360?simple=true)
 
 <summary>Github Stats ⚡</summary>
   
