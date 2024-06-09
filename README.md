@@ -21,18 +21,17 @@
 
 <h2> About Me</h2>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/650393469436559360?simple=true)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/650393469436559360?simple=false)
 
 <summary>Github Stats ⚡</summary>
   
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=abdoelmorap&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmorap&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img style="float: right;" width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
-<be>
 
 
 <h3 align="left">Software and tools</h3>
