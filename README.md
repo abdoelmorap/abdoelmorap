@@ -18,6 +18,27 @@
 - 📄 Know about my experiences [My Resume]() 
 
 
+### Spotify 🎧
+[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify?background_color=00000000&border_color=00000000" alt="Abdo Tolba Spotify Playing" width="400" />](https://open.spotify.com/user/31ji7qz2wvg4bhpsyg4gmoye2qna)
+
+![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+### Me on Internet:
+
+[<img align="left" alt="abdelrhmantolba.tech" width="40px" src="https://img.icons8.com/color/344/globe.png" />][website]
+[<img align="left" alt="abdoelmorap | Stackoverflow" width="40px" src="https://img.icons8.com/color/344/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="abdoelmorap | Twitter" width="40px" src="https://img.icons8.com/color/344/twitter--v2.png" />][twitter]
+[<img align="left" alt="abdoelmorap | LinkedIn" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="abdoelmorap | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram] 
+[<img align="left" alt="abdoelmorap | medium" width="40px" src="https://img.icons8.com/color-glass/344/medium-logo.png" />][medium]
+[<img align="left" alt="abdoelmorap | speakerdeck" width="40px" src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/speakerdeck/C2hl9Ew56CSKmPiij7HFpTcPI1A3" />][speakerdeck]
+[<img align="left" alt="abdoelmorap | youtube" width="40px" src="https://img.icons8.com/color/344/youtube-play.png" />][youtube]
+[<img align="left" alt="abdoelmorap | Steam" width="40px" src="https://img.icons8.com/fluency/344/steam.png" />][steam]
+[<img align="left" alt="abdoelmorap | pub" width="40px" src="https://img.icons8.com/color/344/dart.png" />][pub]
+
+<br />
+<br />
 
 <h2> About Me</h2>
 
@@ -77,14 +98,7 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 </p>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="60px"> </h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-abdelsalam-b72983151/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
  
-</p>
 
 </br>
 </br>
@@ -99,3 +113,14 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 abdoelmorap/abdoelmorap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[website]: https://abdelrhmantolba.tech
+[stackoverflow]: https://stackoverflow.com/users/13426549/abdelrhman-khaled
+[twitter]: https://x.com/abdelrh59861398
+[instagram]: https://www.instagram.com/abdelrahman__tolba/
+[linkedin]: https://www.linkedin.com/in/abdelrahman-abdelsalam-b72983151/
+[steam]: https://steamcommunity.com/id/abdoelmorap/
+[pub]: https://pub.dev/publishers/abdelrhmantolba.online/packages
+[medium]: https://medium.com/abdoelmorap
+[speakerdeck]: https://speakerdeck.com/abdoelmorap
+[youtube]: https://www.youtube.com/channel/abdoelmorap 
