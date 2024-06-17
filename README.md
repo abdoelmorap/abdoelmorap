@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;Abdelrhman+Tolba..)](https://git.io/typing-svg)
 
 
+
+<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="coding gif" height="45%" width="45%" align="right">
 - 👋 Hi, I’m Abdelrhman Khaled Mohamed Abdelsalam
   
 - 👀 I’m interested in SoftWare Development
