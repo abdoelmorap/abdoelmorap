@@ -29,7 +29,7 @@
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=abdoelmorap&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmorap&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-<img style="float: right;" width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img style="float: right;" width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"   />
 
 
 📊 **This week I spent my time on**
@@ -37,9 +37,9 @@
 
 ```txt
 Dart             13 hrs 54 mins  ██████████████████████▓░░   90.88 %
-YAML             1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java             5 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+yaml             45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+GitIgnore file   5 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
@@ -50,7 +50,7 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 <h3 align="left">Software and tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,androidstudio,idea,git,postman,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,androidstudio,idea,git,postman,stackoverflow,vscode"/>
   </a>
 </p>
 
