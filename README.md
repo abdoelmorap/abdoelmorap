@@ -109,8 +109,17 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 
 
 <br>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdoelmorap&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdoelmorap&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdoelmorap&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdoelmorap&theme=aura" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdoelmorap&theme=aura&utcOffset=5.3" />
+</div>
+<p>
 
-
+<br>
+<br>
 <!---
 abdoelmorap/abdoelmorap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
