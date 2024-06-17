@@ -32,6 +32,18 @@
 <img style="float: right;" width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+
+```txt
+Dart             13 hrs 54 mins  ██████████████████████▓░░   90.88 %
+YAML             1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Markdown         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
