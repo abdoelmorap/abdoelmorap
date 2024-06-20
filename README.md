@@ -119,6 +119,10 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 <p>
 
 <br>
+My Clints Review At Freelancing Platforms
+<br>
+<img src="https://raw.githubusercontent.com/abdoelmorap/abdoelmorap/main/ezgif-7-a07dc5cc36.gif" alt="coding gif"  align="center">
+
 <br>
 <!---
 abdoelmorap/abdoelmorap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
