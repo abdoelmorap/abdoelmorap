@@ -41,12 +41,12 @@
 
 <br />
 <br />
-<!---
+
 <h2> About Me</h2>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/650393469436559360?simple=false)  
 <img src="https://komarev.com/ghpvc?username=abdoelmorap&label=Profile%20views&color=0e75b6&style=flat" alt="abdoelmorap" />  
---->
+
 
 <summary>Github Stats ⚡</summary>
   
