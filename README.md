@@ -17,7 +17,7 @@
 
 - 💬 Talk to me about Mobile App Development, Flutter
 
-- 📄 Know about my experiences [My Resume]() 
+- 📄 Know about my experiences [My Resume](www.linkedin.com/in/abdelrahman-abdelsalam-b72983151) 
 
 <!---
 ### Spotify 🎧
