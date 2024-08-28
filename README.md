@@ -52,6 +52,8 @@
   
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=abdoelmorap&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmorap&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoelmorap&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=en" />
+
 
 <img style="float: right;" width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"   />
 
@@ -71,10 +73,6 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 
 
 
-<div align="center">
-<a href="https://github.com/abdoelmorap" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmorap&layout=compact&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&locale=ru&custom_title=Top%20%Languages" alt="languages graph" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoelmorap&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=en" />
-</div>
 
 
 
