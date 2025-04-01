@@ -1,144 +1,118 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;Abdelrhman+Tolba..)](https://git.io/typing-svg)
-
-
-
-<img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="coding gif" height="45%" width="45%" align="right">
-- 👋 Hi, I’m Abdelrhman Khaled Mohamed Abdelsalam
+<div align="center">
   
-- 👀 I’m interested in SoftWare Development
-  
-- 🌱 I’m currently learning Swıft, Flutter (Dart)
-  
-- 💞️ I’m looking to collaborate on Great Things
-  
-- 📫 How to reach me  At Mail Or WebSite
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7EF&vCenter=true&width=500&lines=Mobile+Developer;Flutter+Specialist;Kotlin+Engineer)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on Mobile App Projects
+</div>
 
-- 💬 Talk to me about Mobile App Development, Flutter
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6eHl4d3Z4dWt4b2V6Y3RjZ3V6eGZ6dWx3Z2NqZzZ1bmRqbmV5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="40%" align="right">
 
-- 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/abdelrahman-abdelsalam-b72983151) 
+### 👋 About Me
+- **Name:** Abdelrhman Khaled Mohamed Abdelsalam  
+- **Focus:** Building performant cross-platform apps  
+- **Currently:** Mastering SwiftUI & advanced Flutter  
+- **Collaboration:** Open to innovative mobile projects  
+- **Contact:** [Email](mailto:abdelrahmannbba@protonmail.com) | [Portfolio](https://abdelrhmantolba.tech)  
 
-<!---
-### Spotify 🎧
-[<img src="https://spotify-now-playing-beta.vercel.app/api/spotify?background_color=00000000&border_color=00000000" alt="Abdo Tolba Spotify Playing" width="400" />](https://open.spotify.com/user/31ji7qz2wvg4bhpsyg4gmoye2qna)
--->
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://www.linkedin.com/in/abdelrahman-abdelsalam-b72983151)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdoelmorap&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmorap&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoelmorap&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### [Wassilny (Uber-like App)](https://github.com/abdoelmorap/wassilny)
+Flutter app with scheduled rides feature (First in KSA market)
+
+### [FunnyPot E-Commerce](https://github.com/abdoelmorap/funnypot)
+Complete Java/Kotlin e-commerce solution
+
+### [Text in Shape Package](https://pub.dev/packages/text_in_shape)
+Flutter package for creative text layouts
+
+---
+
+## 📅 Weekly Development
+
+<!--START_SECTION:waka-->
+```text
+Dart        ███████████████████████░░   90.88% 
+Kotlin      ███░░░░░░░░░░░░░░░░░░░░░░   07.96% 
+Swift       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04%
+```
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/abdelrahman-abdelsalam-b72983151">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:abdelrahmannbba@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/abdoelmorap">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://twitter.com/abdelrh59861398">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://pub.dev/publishers/abdelrhmantolba.online/packages">
+    <img src="https://img.shields.io/badge/Pub-02569B?style=for-the-badge&logo=dart&logoColor=white" alt="Pub Dev">
+  </a>
+</div>
+
+## 🏆 Client Testimonials
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdoelmorap/abdoelmorap/main/ezgif-7-a07dc5cc36.gif" width="70%" alt="Client reviews">
+</div>
+
+> "Exceptional Flutter development with strong attention to performance optimization"  
+> "Delivered complex features ahead of schedule with excellent communication"  
+> "Most professional mobile developer I've worked with on Upwork"
+
+---
+
+## 🐍 Contribution Graph
+
 ![GitHub Snake Light](dist/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-### Me on Internet:
+---
 
-[<img align="left" alt="abdelrhmantolba.tech" width="40px" src="https://img.icons8.com/color/344/globe.png" />][website]
-[<img align="left" alt="abdoelmorap | Stackoverflow" width="40px" src="https://img.icons8.com/color/344/stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="abdoelmorap | Twitter" width="40px" src="https://img.icons8.com/color/344/twitter--v2.png" />][twitter]
-[<img align="left" alt="abdoelmorap | LinkedIn" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="abdoelmorap | Instagram" width="40px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram] 
-[<img align="left" alt="abdoelmorap | medium" width="40px" src="https://img.icons8.com/color-glass/344/medium-logo.png" />][medium]
-[<img align="left" alt="abdoelmorap | speakerdeck" width="40px" src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/speakerdeck/C2hl9Ew56CSKmPiij7HFpTcPI1A3" />][speakerdeck]
-[<img align="left" alt="abdoelmorap | youtube" width="40px" src="https://img.icons8.com/color/344/youtube-play.png" />][youtube]
-[<img align="left" alt="abdoelmorap | Steam" width="40px" src="https://img.icons8.com/fluency/344/steam.png" />][steam]
-[<img align="left" alt="abdoelmorap | pub" width="40px" src="https://img.icons8.com/color/344/dart.png" />][pub]
-
-<br />
-<br />
-
-<h2> About Me</h2>
-
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/650393469436559360?simple=false)  
-<img src="https://komarev.com/ghpvc?username=abdoelmorap&label=Profile%20views&color=0e75b6&style=flat" alt="abdoelmorap" />  
-
-
-<summary>Github Stats ⚡</summary>
-  
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=abdoelmorap&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmorap&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdoelmorap&stroke=0d1117&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&locale=en" />
-
-
-<img style="float: right;" width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"   />
-
-
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-
-```txt
-Dart             13 hrs 54 mins  ██████████████████████▓░░   90.88 %
-Java             5 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-yaml             45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-GitIgnore file   5 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
-
-
-
-
-
-
-
-
-
-<h3 align="left">Software and tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,androidstudio,idea,git,postman,stackoverflow,vscode"/>
-  </a>
-</p>
-
-<h3 align="left">Framework & Libraries</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,flutter,laravel&theme=light)](https://skillicons.dev)
-
-
-  
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,swift,dart,php" />
-  </a>
-</p>
-
-
-
-<h3 align="left">Databases and cloud hosting</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb" />
-  </a>
-</p>
-
-
- 
-
-</br>
-</br>
-
-
-
-
-<br>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdoelmorap&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdoelmorap&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdoelmorap&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdoelmorap&theme=aura" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdoelmorap&theme=aura&utcOffset=5.3" />
+  
+[![Visitors](https://komarev.com/ghpvc/?username=abdoelmorap&label=Profile+Views&color=00F7EF&style=flat)](https://github.com/abdoelmorap)
+  
 </div>
-<p>
-
-<br>
-My Clints Review At Freelancing Platforms
-<br>
-<div align="center">
-<img src="https://raw.githubusercontent.com/abdoelmorap/abdoelmorap/main/ezgif-7-a07dc5cc36.gif" alt="coding gif"   align="center">
-</div>
-<br>
-<!---
-abdoelmorap/abdoelmorap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 [website]: https://abdelrhmantolba.tech
 [stackoverflow]: https://stackoverflow.com/users/13426549/abdelrhman-khaled
@@ -149,4 +123,4 @@ You can click the Preview link to take a look at your changes.
 [pub]: https://pub.dev/publishers/abdelrhmantolba.online/packages
 [medium]: https://medium.com/abdoelmorap
 [speakerdeck]: https://speakerdeck.com/abdoelmorap
-[youtube]: https://www.youtube.com/channel/abdoelmorap 
+[youtube]: https://www.youtube.com/channel/abdoelmorap
